@@ -1,0 +1,7 @@
+board_manager:
+  additional_urls:
+    - https://drazzy.com/package_drazzy.com_index.json
+    - https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+    - https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
+    - https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+    - https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json
